@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akshay Mahato
+# 👋 Hi, I'm Akshay Kumar Mahato
 
 🎓 Computer Science Student | 💻 Frontend Developer  
 🚀 Passionate about building modern, responsive web applications
