@@ -21,6 +21,11 @@
 - CSS3
 - Tailwind CSS
 
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+
 **Tools & Platforms**
 - Git & GitHub
 - Vite
@@ -35,9 +40,6 @@ Personal portfolio showcasing my skills and projects
 👉 Live: https://dev-akshay-kumar.github.io/portfolio  
 👉 Code: https://github.com/Dev-Akshay-kumar/portfolio
 
-🔹 **Zerodha UI Clone**  
-Frontend clone focusing on UI & responsiveness  
-👉 Tech: React + Tailwind CSS
 
 ---
 
@@ -49,9 +51,9 @@ Frontend clone focusing on UI & responsiveness
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link
+- 💼 LinkedIn: www.linkedin.com/in/akshay-kumar-mahato
 - 🌐 Portfolio: https://dev-akshay-kumar.github.io/portfolio
-- 📧 Email: your-email@gmail.com
+- 📧 Email: akshaymahato699@gmail.com
 
 ---
 
