@@ -72,10 +72,11 @@ A responsive personal portfolio showcasing my projects, skills, and development 
 
 ## 📈 GitHub Statistics
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Akshay-kumar\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Akshay-kumar&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Akshay-kumar\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Akshay-kumar&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Akshay-kumar&theme=tokyonight)
 ---
 
 ## 🤝 Connect With Me
