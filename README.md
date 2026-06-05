@@ -1,60 +1,91 @@
 # 👋 Hi, I'm Akshay Kumar Mahato
 
-🎓 Computer Science Student | 💻 Frontend Developer  
-🚀 Passionate about building modern, responsive web applications
+### Computer Science Student | Full-Stack Web Developer
+
+Passionate about building scalable, user-friendly web applications and continuously learning modern technologies. I enjoy transforming ideas into real-world products through clean code, intuitive interfaces, and efficient backend systems.
 
 ---
 
-## 🧑‍💻 About Me
-- 🌱 Currently learning **React, Tailwind CSS, and Modern JavaScript**
-- 🔭 Working on **personal projects & portfolio**
-- 💡 Interested in **UI/UX, Web Performance, and Clean Code**
-- 🎯 Goal: Become a **professional frontend developer**
+## 🚀 About Me
+
+* 🎓 Computer Science student with a strong interest in web development
+* 💻 Building full-stack applications using the MERN stack
+* 🌱 Currently exploring advanced React patterns, backend architecture, and system design
+* 🎯 Aspiring Software Engineer focused on creating impactful digital solutions
+* ⚡ Strong believer in clean code, performance optimization, and continuous learning
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
 
-**Backend**
-- Node.js
-- Express.js
-- MongoDB
+### Frontend
 
-**Tools & Platforms**
-- Git & GitHub
-- Vite
-- VS Code
-- npm
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* Vite
 
----
+### Backend
 
-## 📂 Projects
-🔹 **Portfolio Website**  
-Personal portfolio showcasing my skills and projects  
-👉 Live: https://dev-akshay-kumar.github.io/portfolio  
-👉 Code: https://github.com/Dev-Akshay-kumar/portfolio
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* JWT Authentication
 
+### Tools & Platforms
 
----
-
-## 📈 GitHub Stats
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Akshay-kumar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Akshay-kumar&layout=compact&theme=tokyonight)
+* Git & GitHub
+* VS Code
+* npm
+* Postman
+* Vercel
+* Render
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/akshay-kumar-mahato
-- 🌐 Portfolio: https://dev-akshay-kumar.github.io/portfolio
-- 📧 Email: akshaymahato699@gmail.com
+## 📂 Featured Projects
+
+### 🔹 TradeSpark
+
+A full-stack stock trading platform inspired by Zerodha, featuring secure authentication, portfolio tracking, holdings management, order management, and interactive market dashboards.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Chart.js
+
+👉 Live Demo: https://trade-spark-sooty.vercel.app
+👉 Source Code: https://github.com/Dev-Akshay-kumar/Trade-Spark
 
 ---
 
-⭐ If you like my work, consider giving a **star** to my repositories!
+### 🔹 Portfolio Website
+
+A responsive personal portfolio showcasing my projects, skills, and development journey.
+
+**Tech Stack:** React, Tailwind CSS, Vite
+
+👉 Live Demo: https://dev-akshay-kumar.github.io/portfolio
+👉 Source Code: https://github.com/Dev-Akshay-kumar/portfolio
+
+---
+
+## 📈 GitHub Statistics
+
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Akshay-kumar\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Akshay-kumar\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/akshay-kumar-mahato
+
+🌐 Portfolio: https://dev-akshay-kumar.github.io/portfolio
+
+📧 Email: [akshaymahato699@gmail.com](mailto:akshaymahato699@gmail.com)
+
+---
+
+⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
