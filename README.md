@@ -59,6 +59,24 @@ A full-stack stock trading platform inspired by Zerodha, featuring secure authen
 
 ---
 
+### 🔹 Healthcare Plus *(Group Hackathon Project)*
+Developed a full-stack Hospital Management System during a hackathon with separate Admin and Patient portals.
+Implemented modules for OPD Queue Management, Appointment Scheduling, Bed Management, Inventory Tracking, and Patient Records to streamline hospital operations.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS
+
+👉 Source Code: https://github.com/Dev-Akshay-kumar/healthcare-plus
+
+---
+
+### 🔹 Hack The Web *(College Technical Club Website Design Competition)*
+Built a modern and responsive technical club website as part of a college-level website design competition. 
+Leveraged Next.js and TypeScript with shadcn/ui components and Tailwind CSS to create an accessible, performant, and visually appealing user experience.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui
+
+👉 Source Code: https://github.com/Dev-Akshay-kumar/hack-the-web
+
 ### 🔹 Portfolio Website
 
 A responsive personal portfolio showcasing my projects, skills, and development journey.
