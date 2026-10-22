@@ -1,77 +1,115 @@
 
-<div align="center">
+<!-- ==================== HEADER ==================== -->
 
-# 👋 Hey, I'm Akshay Kumar Mahato
+<h1 align="center">ABOUT ME</h1>
 
-### Full-Stack Developer | MERN Stack | Java DSA
+<p align="center">
+  <!-- Replace with the exact terminal image filename from GitHub -->
+  <img
+    src="./REPLACE_WITH_EXACT_TERMINAL_FILENAME.png"
+    alt="Akshay Kumar Mahato - Developer Terminal"
+    width="100%"
+  />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7A5&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Building+Real-World+Projects;Learning+Data+Structures+%26+Algorithms;Exploring+AI-Powered+Applications" alt="Typing SVG" />
-
-<p>
+<p align="center">
   <a href="https://github.com/Dev-Akshay-kumar">
-    <img src="https://img.shields.io/badge/GitHub-Dev--Akshay--kumar-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Dev--Akshay--kumar-07111f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/akshay-kumar-mahato">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://dev-akshay-kumar.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C896?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0e7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Dev-Akshay-kumar&style=flat-square&color=00C896&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+thoughtful+software;Turning+ideas+into+real-world+solutions;Learning+Java+DSA+and+modern+web+technologies;Build+%E2%86%92+Debug+%E2%86%92+Improve"
+    alt="Developer introduction"
+  />
+</p>
 
 ---
 
-## 💫 About Me
+## `AKSHAY.EXE`
 
-```yaml
-name: Akshay Kumar Mahato
-role: Full-Stack Developer
-education: Computer Science Engineering
-primary_stack: MERN
-programming_language: Java
-currently_learning:
-  - Data Structures and Algorithms
-  - Next.js
-  - AI/ML Applications
-interests:
-  - Full-Stack Development
-  - Problem Solving
-  - Artificial Intelligence
+```text
+┌──────────────────────────────────────────────────────────┐
+│  AKSHAY.EXE                                               │
+│                                                          │
+│  STATUS      ● ONLINE                                    │
+│  ROLE        CSE STUDENT / FULL-STACK DEVELOPER           │
+│  STACK       MERN                                        │
+│  FOCUS       JAVA DSA + AI-POWERED APPLICATIONS           │
+│  BUILDING    PROJECTS THAT SOLVE REAL PROBLEMS            │
+│  APPROACH    LEARN → BUILD → DEBUG → IMPROVE              │
+└──────────────────────────────────────────────────────────┘
 ```
 
-- 💻 I build responsive and full-stack web applications.
-- ⚛️ I work with React, Node.js, Express.js, and MongoDB.
-- 🧠 I practice Data Structures and Algorithms using Java.
-- 🤖 I'm interested in integrating AI into practical applications.
-- 🚀 I enjoy learning new technologies and turning ideas into working products.
+## `About Me`
+
+I'm a Computer Science Engineering student who enjoys building useful applications, solving problems, and exploring new technologies.
+
+- 💻 Developing full-stack applications with the MERN stack.
+- 🧠 Practicing Data Structures and Algorithms using Java.
+- 🤖 Exploring AI-powered applications and machine learning.
+- ⚡ Interested in clean UI, useful features, and reliable backend systems.
+- 🌱 Continuously learning by building and improving real projects.
 
 ---
 
-## 🛠️ Tech Stack
+## `Featured Works`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dev-Akshay-kumar/Trade-Spark">📈 TradeSpark</a></h3>
+      <p>A stock trading platform featuring authentication, holdings, order management, and interactive dashboards.</p>
+      <p><b>Stack:</b> React, Node.js, Express.js, MongoDB, Chart.js</p>
+      <a href="https://trade-spark-sooty.vercel.app">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dev-Akshay-kumar/healthcare-plus">🏥 Healthcare Plus</a></h3>
+      <p>A healthcare management project focused on patient services, appointments, and hospital operations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dev-Akshay-kumar/hack-the-web">💻 Hack the Web</a></h3>
+      <p>A responsive technical club website created for a college website-building competition.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dev-Akshay-kumar/portfolio">🌐 Portfolio Website</a></h3>
+      <p>A personal portfolio showcasing projects, technical skills, and development experience.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `Tech Stack`
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" alt="Frontend stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" alt="Frontend technologies"/>
 </p>
 
 ### Backend and Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend stack"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend technologies"/>
 </p>
 
-### Programming and AI/ML
+### Programming and AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,tensorflow,fastapi" alt="Programming and AI stack"/>
+  <img src="https://skillicons.dev/icons?i=java,python,tensorflow,fastapi" alt="Programming and AI technologies"/>
 </p>
 
-### Tools and Platforms
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" alt="Developer tools"/>
@@ -79,125 +117,122 @@ interests:
 
 ---
 
-## 🚀 Featured Projects
+## `GitHub Stats`
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Dev-Akshay-kumar&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    width="49%"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Dev-Akshay-kumar&hide_border=true&theme=github-dark"
+    width="49%"
+    alt="GitHub contribution streak"
+  />
+</p>
 
-### 📈 TradeSpark
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Akshay-kumar&theme=github_dark"
+    width="95%"
+    alt="GitHub contribution summary"
+  />
+</p>
 
-A stock trading platform with holdings, order management, authentication, and interactive dashboards.
-
-**Tech:** React, Node.js, Express, MongoDB, Chart.js
-
-[🔗 Live Demo](https://trade-spark-sooty.vercel.app)
-
-[📂 Source Code](https://github.com/Dev-Akshay-kumar/Trade-Spark)
-
-</td>
-<td width="50%">
-
-### 🌱 CropCare AI
-
-An AI-powered crop disease detection and smart advisory project designed to identify plant diseases from images and provide crop-care recommendations.
-
-**Tech:** React, Node.js, FastAPI, TensorFlow, MongoDB
-
-[👨‍💻 Explore my repositories](https://github.com/Dev-Akshay-kumar?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 Healthcare Plus
-
-A healthcare management project focused on patient services, appointments, and hospital operations.
-
-[📂 Source Code](https://github.com/Dev-Akshay-kumar/healthcare-plus)
-
-</td>
-<td width="50%">
-
-### 💻 Hack the Web
-
-A responsive technical club website developed for a college website-building competition.
-
-[📂 Source Code](https://github.com/Dev-Akshay-kumar/hack-the-web)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Akshay-kumar&theme=github_dark"
+    width="32%"
+    alt="Languages by repository"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-Akshay-kumar&theme=github_dark"
+    width="32%"
+    alt="Languages by commits"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-Akshay-kumar&theme=github_dark"
+    width="32%"
+    alt="GitHub statistics summary"
+  />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## `Contribution Activity`
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Dev-Akshay-kumar&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub overview"/>
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Akshay-kumar&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-<img height="180" src="https://streak-stats.demolab.com/?user=Dev-Akshay-kumar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Akshay-kumar&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub activity graph"
+  />
+</p>
 
 ---
 
-## 📈 Contribution Activity
+## `Contribution Snake`
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Akshay-kumar&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Akshay-kumar/Dev-Akshay-kumar/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Akshay-kumar/Dev-Akshay-kumar/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Dev-Akshay-kumar/Dev-Akshay-kumar/output/github-snake.svg" width="100%">
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Dev-Akshay-kumar/Dev-Akshay-kumar/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Dev-Akshay-kumar/Dev-Akshay-kumar/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Dev-Akshay-kumar/Dev-Akshay-kumar/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ---
 
-## 🎯 Current Goals
+## `Keep Building`
 
-- 📚 Improve problem-solving skills with Java and DSA.
-- ⚛️ Build more advanced full-stack applications.
-- 🤖 Develop practical AI-powered projects.
-- 🌐 Learn and apply modern web development technologies.
-- 🤝 Collaborate with developers and contribute to open-source projects.
+<p align="center">
+  <img
+    src="./Neon Developer Workspace_Keep Building.png"
+    width="100%"
+    alt="Neon developer workspace - Keep Building"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./Neon Rainy Night Coding Retreat.png"
+    width="100%"
+    alt="Pixel art rainy night coding retreat"
+  />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## `Current Focus`
 
-<div align="center">
+```text
+JAVA DSA         → Strengthen problem-solving
+FULL-STACK       → Build useful applications
+NEXT.JS          → Learn modern web development
+AI / ML          → Explore intelligent applications
 
-<a href="https://github.com/Dev-Akshay-kumar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/akshay-kumar-mahato">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:akshaymahato699@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+LEARN → BUILD → DEBUG → SHIP → REPEAT
+```
 
-### 💚 Code. Learn. Build. Repeat.
+---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <a href="https://github.com/Dev-Akshay-kumar">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <i>Keep building. Keep learning. Keep improving.</i>
+</p>
