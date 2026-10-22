@@ -164,11 +164,12 @@ I'm a Computer Science Engineering student who enjoys building useful applicatio
 
 <p>
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Akshay-kumar&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub activity graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Akshay-kumar&theme=github_dark"
+    alt="Akshay's GitHub contribution activity"
     width="100%"
   />
 </p>
+
 
 
 ---
@@ -199,7 +200,7 @@ I'm a Computer Science Engineering student who enjoys building useful applicatio
 
 <p>
   <img
-    src="https://raw.githubusercontent.com/Dev-Akshay-kumar/Dev-Akshay-kumar/main/Neon%20Developer%20Workspace_Keep%20Building.png"
+    src="/Neon Developer Terminal Over Futuristic Mountains.png"
     alt="Neon developer workspace - Keep Building"
   />
 </p>
