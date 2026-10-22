@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Replace with the exact terminal image filename from GitHub -->
   <img
-    src="./REPLACE_WITH_EXACT_TERMINAL_FILENAME.png"
+    src="./Neon Developer Workspace_ Keep Building.png"
     alt="Akshay Kumar Mahato - Developer Terminal"
     width="100%"
   />
