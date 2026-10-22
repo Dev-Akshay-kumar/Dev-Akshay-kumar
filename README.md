@@ -1,7 +1,7 @@
 
 <!-- ==================== HEADER ==================== -->
 
-<h1 align="center">ABOUT ME</h1>
+<h1>ABOUT ME</h1>
 
 <p align="center">
   <!-- Replace with the exact terminal image filename from GitHub -->
@@ -199,7 +199,6 @@ I'm a Computer Science Engineering student who enjoys building useful applicatio
 <p align="center">
   <img
     src="./Neon Developer Workspace_Keep Building.png"
-    width="100%"
     alt="Neon developer workspace - Keep Building"
   />
 </p>
@@ -207,10 +206,10 @@ I'm a Computer Science Engineering student who enjoys building useful applicatio
 <p align="center">
   <img
     src="./Neon Rainy Night Coding Retreat.png"
-    width="100%"
     alt="Pixel art rainy night coding retreat"
   />
 </p>
+
 
 ---
 
