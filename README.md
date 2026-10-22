@@ -162,13 +162,14 @@ I'm a Computer Science Engineering student who enjoys building useful applicatio
 
 ## `Contribution Activity`
 
-<p align="center">
+<p>
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Akshay-kumar&theme=github-compact&hide_border=true&area=true"
-    width="100%"
     alt="GitHub activity graph"
+    width="100%"
   />
 </p>
+
 
 ---
 
@@ -196,12 +197,13 @@ I'm a Computer Science Engineering student who enjoys building useful applicatio
 
 ## `Keep Building`
 
-<p align="center">
+<p>
   <img
-    src="./Neon Developer Workspace_Keep Building.png"
+    src="https://raw.githubusercontent.com/Dev-Akshay-kumar/Dev-Akshay-kumar/main/Neon%20Developer%20Workspace_Keep%20Building.png"
     alt="Neon developer workspace - Keep Building"
   />
 </p>
+
 
 <p align="center">
   <img
