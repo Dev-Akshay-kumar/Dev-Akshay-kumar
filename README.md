@@ -132,13 +132,6 @@ I'm a Computer Science Engineering student who enjoys building useful applicatio
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Akshay-kumar&theme=github_dark"
-    width="95%"
-    alt="GitHub contribution summary"
-  />
-</p>
 
 <p align="center">
   <img
