@@ -1,110 +1,158 @@
-# 👋 Hi, I'm Akshay Kumar Mahato
+ <!-- Profile README for Dev-Akshay-kumar -->
 
-### Computer Science Student | Full-Stack Web Developer
+<div align="center">
 
-Passionate about building scalable, user-friendly web applications and continuously learning modern technologies. I enjoy transforming ideas into real-world products through clean code, intuitive interfaces, and efficient backend systems.
+# 👋 Hey, I'm Akshay Kumar Mahato
+
+### `Full-Stack Developer` · `MERN Stack` · `Problem Solver`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7A5&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Reality;MERN+Stack+Developer;Learning+DSA+with+Java;Exploring+AI-Powered+Applications" alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/Dev-Akshay-kumar">
+    <img src="https://img.shields.io/badge/GitHub-Dev--Akshay--kumar-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akshay-kumar-mahato">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev-akshay-kumar.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C896?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## `> whoami`
 
-* 🎓 Computer Science student with a strong interest in web development
-* 💻 Building full-stack applications using the MERN stack
-* 🌱 Currently exploring advanced React patterns, backend architecture, and system design
-* 🎯 Aspiring Software Engineer focused on creating impactful digital solutions
-* ⚡ Strong believer in clean code, performance optimization, and continuous learning
+🎓 Computer Science Engineering student passionate about software development.
+
+💻 Building full-stack web applications using the **MERN stack**.
+
+🧠 Practicing Data Structures and Algorithms in Java.
+
+🤖 Exploring AI/ML integration and intelligent real-world applications.
+
+🚀 Interested in building useful products with clean code, intuitive interfaces, and reliable backend systems.
+
+🎯 Goal: Grow as a software engineer by learning, building, and collaborating.
 
 ---
 
-## 🛠️ Tech Stack
+## `> tech-stack --list`
 
 ### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" alt="Frontend technologies"/>
+</p>
 
-* React.js
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Tailwind CSS
-* Vite
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" alt="Backend technologies"/>
+</p>
 
-### Backend
-
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* JWT Authentication
+### Programming & AI/ML
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,tensorflow,fastapi" alt="Programming and AI technologies"/>
+</p>
 
 ### Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* npm
-* Postman
-* Vercel
-* Render
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" alt="Developer tools"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+## `> ls ./featured-projects`
 
-### 🔹 TradeSpark
+### 📈 TradeSpark — Stock Trading Platform
 
-A full-stack stock trading platform inspired by Zerodha, featuring secure authentication, portfolio tracking, holdings management, order management, and interactive market dashboards.
+A full-stack stock trading application inspired by modern trading platforms, featuring authentication, holdings management, order management, and interactive dashboards.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Chart.js
+**Tech:** React · Node.js · Express.js · MongoDB · Chart.js
 
-👉 Live Demo: https://trade-spark-sooty.vercel.app
-👉 Source Code: https://github.com/Dev-Akshay-kumar/Trade-Spark
+[🚀 Live Demo](https://trade-spark-sooty.vercel.app) · [📂 Source Code](https://github.com/Dev-Akshay-kumar/Trade-Spark)
 
----
+### 🏥 Healthcare Plus — Hospital Management System
 
-### 🔹 Healthcare Plus *(Group Hackathon Project)*
-Developed a full-stack Hospital Management System during a hackathon with separate Admin and Patient portals.
-Implemented modules for OPD Queue Management, Appointment Scheduling, Bed Management, Inventory Tracking, and Patient Records to streamline hospital operations.
+A group hackathon project designed to streamline hospital operations through separate admin and patient portals, appointment scheduling, OPD queue management, bed management, inventory, and patient records.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS
+**Tech:** React · Node.js · Express.js · MongoDB · Tailwind CSS
 
-👉 Source Code: https://github.com/Dev-Akshay-kumar/healthcare-plus
+[📂 Source Code](https://github.com/Dev-Akshay-kumar/healthcare-plus)
 
----
+### 💻 Hack the Web — Technical Club Website
 
-### 🔹 Hack The Web *(College Technical Club Website Design Competition)*
-Built a modern and responsive technical club website as part of a college-level website design competition. 
-Leveraged Next.js and TypeScript with shadcn/ui components and Tailwind CSS to create an accessible, performant, and visually appealing user experience.
+A modern, responsive technical club website developed for a college website design competition.
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui
+**Tech:** Next.js · TypeScript · Tailwind CSS · shadcn/ui
 
-👉 Source Code: https://github.com/Dev-Akshay-kumar/hack-the-web
+[📂 Source Code](https://github.com/Dev-Akshay-kumar/hack-the-web)
 
-### 🔹 Portfolio Website
+### 🌐 Personal Portfolio
 
-A responsive personal portfolio showcasing my projects, skills, and development journey.
+A responsive portfolio showcasing my projects, technical skills, and development journey.
 
-**Tech Stack:** React, Tailwind CSS, Vite
+**Tech:** React · Tailwind CSS · Vite
 
-👉 Live Demo: https://dev-akshay-kumar.github.io/portfolio
-👉 Source Code: https://github.com/Dev-Akshay-kumar/portfolio
+[🌍 Live Portfolio](https://dev-akshay-kumar.github.io/portfolio) · [📂 Source Code](https://github.com/Dev-Akshay-kumar/portfolio)
 
 ---
 
-## 📈 GitHub Statistics
+## `> git log --achievements`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Akshay-kumar&show_icons=true&theme=tokyonight)
+🏆 **Hack Qubit 2025** — Participated in a 24-hour hackathon with Team Spark.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Akshay-kumar&layout=compact&theme=tokyonight)
+🥉 **Hack the Web** — Team Spark secured 2nd Runner-Up in a college UI-building competition.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Akshay-kumar&theme=tokyonight)
----
-
-## 🤝 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/akshay-kumar-mahato
-
-🌐 Portfolio: https://dev-akshay-kumar.github.io/portfolio
-
-📧 Email: [akshaymahato699@gmail.com](mailto:akshaymahato699@gmail.com)
+💡 **TCS NQT** — Qualified, as previously shared.
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
+## `> github --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev-Akshay-kumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Akshay-kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Dev-Akshay-kumar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `> current-focus`
+
+- 📚 Strengthening DSA and problem-solving with Java.
+- ⚛️ Improving full-stack development skills.
+- 🤖 Building practical AI-powered projects.
+- 🌱 Learning continuously through projects and collaboration.
+
+---
+
+## `> connect --with-me`
+
+<div align="center">
+
+<a href="mailto:akshaymahato699@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/akshay-kumar-mahato">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+**"Code. Learn. Build. Repeat."** ⚡
+
+⭐ If you find my projects interesting, feel free to explore my repositories!
+
+<img src="https://komarev.com/ghpvc/?username=Dev-Akshay-kumar&style=flat-square&color=00C896" alt="Profile views"/>
+
+</div>
+
+<!-- Contribution snake: enable the GitHub Actions workflow before using this image. -->
+<!--
+<img src="https://raw.githubusercontent.com/Dev-Akshay-kumar/Dev-Akshay-kumar/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+-->
